@@ -1,0 +1,60 @@
+---
+title: 'Exercices pratiques modules 2 : Nuages de points'
+author: '...'
+date: "..."
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# package
+SciViews::R
+options(data.io_lang = "fr") # Labels en français
+```
+
+> Importez le jeu de données `urchin_bio` depuis le package `data.io` et assignez le a `urchin`. 
+
+```{r importation}
+urchin <- read("urchin_bio", package = "data.io")
+```
+
+> Visualisez les 10 premières lignes du jeu d'`urchin`
+
+```{r visualisation}
+head(urchin, n = 10)
+```
+
+> Réalisez le graphique de la hauteur en fonction de la masse des oursins. Commentez ensuite votre graphique en maximum 5 phrases.
+
+```{r graphe1}
+
+```
+
+> Réalisez le graphique de la hauteur en fonction de la masse des oursins en utilisant une transformation `log()` pour les 2 variables. Commentez ensuite votre graphique en maximum 5 phrases.
+
+```{r graphe2}
+
+```
+
+> > Réalisez le graphique des parties solides en fonction de la masse immergée des oursins en utilisant de la couleur pour l'origine. Commentez ensuite votre graphique en maximum 5 phrases.
+
+```{r graphe3}
+
+```
+
+> Représentez la masse de la lanterne en fonction de la masse du squelette en ajoutant de la couleur pour l'origine et en modifiant la forme des points. Commentez ensuite votre graphique en maximum 5 phrases.
+
+```{r graphe4}
+
+```
+
+> C'est maintenant à vous de jouez. A partir des `19 variables` du jeu de données `urchin` réalisez et commentez deux nouveaux graphiques en nuage de points que vous jugez pertinants. Utilisez une variable facteur dans au moins un des déux graphiques.  
+
+```{r graphe5}
+
+```
+
+```{r graphe6}
+
+```
+
