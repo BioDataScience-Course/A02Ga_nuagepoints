@@ -21,7 +21,7 @@ urchin <- read("urchin_bio", package = "data.io")
 > Visualisez les 10 premières lignes du jeu d'`urchin`
 
 ```{r visualisation}
-head(urchin, n = 10)
+
 ```
 
 > Réalisez le graphique de la hauteur en fonction de la masse des oursins. Commentez ensuite votre graphique en maximum 5 phrases.
