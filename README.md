@@ -18,15 +18,8 @@ L'objectif est de compléter votre apprentisage dans la réalisation de graphiqu
 
 ## Consignes 
 
-Au sein du fichier `nuagepoints.Rmd` qui se trouve dans le dossier `docs`, réalisez et commentez les graphiques en nuage de points demandés ci-dessous :
+Cette travail se décompose en deux parties. Le première partie concerne le fichier `nuage.R` alors que la seconde partie concerne `nuagepoints.Rmd`.
 
-- la hauteur en fonction de la masse des oursins
+- Au sein du fichier `nuage.R`, complétez ce fichier qui se trouve dans le dossier `R`.
 
-- la hauteur en fonction de la masse des oursins en utilisant une transformation `log()` pour les 2 variables
-
-- les parties solides en fonction de la masse immergée des oursins en utilisant de la couleur pour l'origine
-
-- la masse de la lanterne en fonction de la masse du squelette en ajoutant de la couleur pour l'origine et en modifiant la forme des points
-
-- 2 graphiques libres que vous jugez pertinants
-
+- Au sein du fichier `nuagepoints.Rmd` qui se trouve dans le dossier `docs`, réalisez et commentez les graphiques en nuage de points demandés au sein du document.

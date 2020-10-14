@@ -24,19 +24,19 @@ urchin <- read("urchin_bio", package = "data.io")
 
 ```
 
-> Réalisez le graphique de la hauteur en fonction de la masse des oursins. Commentez ensuite votre graphique en maximum 5 phrases.
+> Réalisez le graphique de la hauteur en fonction de la masse des oursins. Vous avez déjà réalisé ce graphique dans votre script R. Commentez ensuite votre graphique en maximum 5 phrases.
 
 ```{r graphe1}
 
 ```
 
-> Réalisez le graphique de la hauteur en fonction de la masse des oursins en utilisant une transformation `log()` pour les 2 variables. Commentez ensuite votre graphique en maximum 5 phrases.
+> Réalisez le graphique de la hauteur en fonction de la masse des oursins en utilisant une transformation `log()` pour les 2 variables. Vous avez déjà réalisé ce graphique dans votre script R. Commentez ensuite votre graphique en maximum 5 phrases.
 
 ```{r graphe2}
 
 ```
 
-> > Réalisez le graphique des parties solides en fonction de la masse immergée des oursins en utilisant de la couleur pour l'origine. Commentez ensuite votre graphique en maximum 5 phrases.
+> Réalisez le graphique des parties solides en fonction de la masse immergée des oursins en utilisant de la couleur pour l'origine. Commentez ensuite votre graphique en maximum 5 phrases.
 
 ```{r graphe3}
 
@@ -48,7 +48,7 @@ urchin <- read("urchin_bio", package = "data.io")
 
 ```
 
-> C'est maintenant à vous de jouez. A partir des `19 variables` du jeu de données `urchin` réalisez et commentez deux nouveaux graphiques en nuage de points que vous jugez pertinants. Utilisez une variable facteur dans au moins un des déux graphiques.  
+> C'est maintenant à vous de jouez. A partir des `19 variables` du jeu de données `urchin`, réalisez et commentez deux nouveaux graphiques en nuage de points que vous jugez pertinants. Utilisez une variable facteur dans au moins un des deux graphiques.  
 
 ```{r graphe5}
 
